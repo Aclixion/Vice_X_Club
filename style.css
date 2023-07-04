@@ -9,6 +9,10 @@ html {
     font-size: 20px;
 }
 
+.home-section {
+    text-align: center;
+}
+
 .home-heading {
     font-size: 3.0rem;
 }
