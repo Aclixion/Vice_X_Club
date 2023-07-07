@@ -11,6 +11,7 @@ html {
 
 body {
     background: url("images/background.jpg");
+    background-size: cover;
 }
 
 .home-section {
