@@ -26,3 +26,9 @@ a {
 .home-heading {
     font-size: 3.0rem;
 }
+
+.main-nav-links {
+    display: flex;
+    gap: 1.0rem;
+    justify-content: flex-end;
+}
