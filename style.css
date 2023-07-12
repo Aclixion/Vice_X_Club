@@ -38,4 +38,6 @@ a {
 
 .current-page-paragraph {
     color: #f3b7ff;
+    border: 0.1rem solid #5d23e9;
+    border-radius: 0.25rem;
 }
